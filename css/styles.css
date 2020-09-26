@@ -46,17 +46,7 @@ p {
   font-size: 20px;
 }
 
-@media (max-width: 600px) {
-  p{
-    font-size: 24px;
-  }
-  a{
-    font-size: 24px;
-  }
-}
-a{
-  font-size: 24px;
-}
+
 
 
 
